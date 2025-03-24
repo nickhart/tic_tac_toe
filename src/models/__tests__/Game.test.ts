@@ -1,4 +1,4 @@
-import { Game, type Player, type CellState } from '../Game';
+import { Game } from '../Game';
 
 describe('Game', () => {
   let game: Game;

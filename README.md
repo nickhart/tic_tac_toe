@@ -1,5 +1,8 @@
 # Tic Tac Toe
 
+[![CI](https://github.com/nickhart/tic_tac_toe/actions/workflows/jest.yml/badge.svg)](https://github.com/nickhart/tic_tac_toe/actions/workflows/jest.yml)
+[![Tests](https://github.com/nickhart/tic_tac_toe/actions/workflows/jest.yml/badge.svg?branch=main&event=push&label=tests)](https://github.com/nickhart/tic_tac_toe/actions/workflows/jest.yml)
+
 A modern implementation of the classic Tic Tac Toe game built with Next.js, React, and TypeScript. The game features a clean, responsive design with dark mode support and follows best practices for React development.
 
 ## Features
