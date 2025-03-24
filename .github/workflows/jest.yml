@@ -1,4 +1,4 @@
-name: CI
+name: Jest Tests
 
 on:
   push:
@@ -8,6 +8,7 @@ on:
 
 jobs:
   test:
+    name: Jest Tests
     runs-on: ubuntu-latest
 
     steps:
