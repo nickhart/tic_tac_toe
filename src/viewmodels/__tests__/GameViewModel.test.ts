@@ -1,5 +1,4 @@
 import { createGameViewModel } from '../GameViewModel';
-import { type GameState, type Player, type CellState } from '../../models/Game';
 
 describe('GameViewModel', () => {
   let viewModel: ReturnType<typeof createGameViewModel>;
